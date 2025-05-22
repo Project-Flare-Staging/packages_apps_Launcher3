@@ -1224,6 +1224,9 @@
         drawable="@drawable/themed_icon_cdek"
         package="com.logistic.sdek" />
     <icon
+        drawable="@drawable/themed_icon_chaldea_gamespace" 
+        package="io.chaldeaprjkt.gamespace" />
+    <icon
         drawable="@drawable/themed_icon_aviata"
         package="kz.glatis.aviata" />
     <icon
